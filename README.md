@@ -1,2 +1,2 @@
 # bus-default
-chefsgo default bus driver
+Chefs.go default bus driver.
